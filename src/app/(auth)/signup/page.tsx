@@ -102,7 +102,7 @@ export default function SignupPage() {
           </div>
           <CardTitle className="text-xl text-white">Create account</CardTitle>
           <CardDescription className="text-slate-400">
-            Get started with Anvi
+            Get started with Anvee
           </CardDescription>
         </CardHeader>
         <CardContent>
